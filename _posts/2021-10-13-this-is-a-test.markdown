@@ -1,5 +1,5 @@
 ---
-title: "Test post"
+title: "this is a test"
 layout: post
 date: 2021-10-13 22:48
 image: /assets/images/markdown.jpg
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: riwaj
 description: Markdown summary with different options
 ---
 
